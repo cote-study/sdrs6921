@@ -3,6 +3,7 @@ package week07.입국심사;
 import java.util.Arrays;
 
 public class Solution {
+
     public long solution(int n, int[] times) {
         long answer = 0;
         Arrays.sort(times);
