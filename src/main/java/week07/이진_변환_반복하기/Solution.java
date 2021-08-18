@@ -13,8 +13,6 @@ public class Solution {
             answer[0]++;
         }
 
-        System.out.println(Integer.bitCount(6));
-
         return answer;
     }
 }
